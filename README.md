@@ -21,6 +21,8 @@ The zip file is all the gerber files to have it made.
 
 The regultor is an AMS1117-3.3
 
+oh yea, the power and IO are 5V., IF YOU WANT, you can bypass the regulator and use it all with 3.3V.
+
 ![ ](esp01ExpanderT.png)
 ![ ](esp01ExpanderB.png)
 ![ ](p1330847.jpg)
