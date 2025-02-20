@@ -19,6 +19,10 @@ Why not just use i2c?
 
 The zip file is all the gerber files to have it made.
 
+The resultor is an AMS1117-3.3
+
 ![ ](esp01ExpanderT.png)
 ![ ](esp01ExpanderB.png)
+![ ](p1330847.jpg)
+![ ](p1330848.jpg)
 
